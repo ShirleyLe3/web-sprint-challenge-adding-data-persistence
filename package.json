@@ -4,20 +4,20 @@
   "description": "**Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**",
   "main": "index.js",
   "scripts": {
-    "watch": "nodemon index.js",
+    "server": "nodemon index.js",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Robert-Lark/web-sprint-challenge-adding-data-persistence.git"
+    "url": "git+https://github.com/ShirleyLe3/web-sprint-challenge-adding-data-persistence.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Robert-Lark/web-sprint-challenge-adding-data-persistence/issues"
+    "url": "https://github.com/ShirleyLe3/web-sprint-challenge-adding-data-persistence/issues"
   },
-  "homepage": "https://github.com/Robert-Lark/web-sprint-challenge-adding-data-persistence#readme",
+  "homepage": "https://github.com/ShirleyLe3/web-sprint-challenge-adding-data-persistence#readme",
   "devDependencies": {
     "nodemon": "^2.0.6"
   },
