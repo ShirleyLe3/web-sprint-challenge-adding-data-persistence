@@ -14,7 +14,7 @@ _You have **three hours** to complete this challenge. Plan your time accordingly
 
 In this project you will be given a set of requirements and must design a database to satisfy them. As a part of this process you'll also build an API with endpoints to access the data.
 
-### Entities
+### Entities.
 
 A `project` is what needs to be done. We want to store the following data about a `project`:
 
