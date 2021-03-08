@@ -1,13 +1,13 @@
 const express = require("express");
 const projectsRouter = require("./router/projectRouter");
-const welcomeRouter = require("./router/welcome")
+const serverRouter = require("./router/server")
 
 const Projects = require("./models/projectsModels");
 const server = express();
 const port = 9000;
 
 server.use(express.json());
-server.use(welcomeRouter);
+server.use(serverRouter);
 server.use(projectsRouter);
 
 
